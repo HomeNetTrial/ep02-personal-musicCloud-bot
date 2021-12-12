@@ -31,3 +31,7 @@ https://github.com/indes/flowerss-bot
 
 如果开源代码也没办法满足你的需要，你有一些更不错的想法，也是支持付费定制的，请添加我的私信进行了解哦。
 
+灰常感谢你对本文章的支持！Thanks♪(･ω･)ﾉ
+
+如果你在安装之间，或者使用之后，有什么疑问想法的，加群讨论哦，群二维码过期的，请到我公众号添加我私信进群哦！！⛽️
+![](https://cdn.jsdelivr.net/gh/playbear668/mypics//img/wsdasdasdsad1212.png)
