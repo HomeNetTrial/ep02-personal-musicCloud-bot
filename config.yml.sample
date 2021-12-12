@@ -1,0 +1,16 @@
+bot_token:   #这里填写你的电报机器人获取的bot_token，先在botFather那里申请一个机器人，成功后会给你一个bot_token
+socks5:       # 这里需要填写你的代理,例如10.168.1.91:7890,如果你当前机器的网络就可以访问电报和油管的话，就不需要
+
+#可以忽略不改
+log:
+  level: Debug
+  file: ./musicCloud-bot.log
+
+#此处需要你先安装网易云音乐的API服务，具体参考README
+netEasyMusicServer:
+  userName: 13200000000  #你的网易云账号名称，或者手机号码
+  passwdMd5: cd70c6350a6417cbb55d3aae4b6404d6 #这里需要你把的密码转成md5的形式，比如你的密码是haode，那么转成md5就是cd70c6350a6417cbb55d3aae4b6404d6
+  pushMusicServerHost: http://localhost:3000  #这里默认请求本地的服务，默认3000，如果你按照readme来部署的话，不需要改
+
+#在机器人里，输入 /myid 获取你自己的聊天ID
+allowed_users:  #因为机器人是对外的，主要为了防止别人给机器人乱发消息，此处是填写允许的电报账号ID，其他人发送会忽略消息不处理
